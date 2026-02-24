@@ -10,7 +10,7 @@ Senior Site Reliability Engineer specializing in security. I build simple, resil
 
 All of my work is done in a private account, so activity here is only when work and life allows me time.
 
---
+---
 
 ### Simple Thoughts
 
