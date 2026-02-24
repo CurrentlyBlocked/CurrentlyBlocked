@@ -1,16 +1,5 @@
 <h1 align="left">
-  Hi :wave:, I'm @CurrentlyBlocked...
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&duration=2500&color=8B949E&center=false&vCenter=true&width=650&lines=
-  by+a+locked+TF+state.;
-  by+a+Friday+deployment.;
-  tracing+through+20+micro-services.;
-  429+Too+Many+Requests.;
-  refactoring+a+'temporary'+fix.;
-  by+AI+agents+stealing+RAM.;
-  waiting+on+the+next+funding+round.;
-  reviewing+a+±1000+change+PR.;
-  by+an+undocumented+API."
-  alt="Excuses, excuses" />
+  <img src="assets/banner.svg" />
 </h1>
 
 <p align="center">
@@ -21,7 +10,7 @@ Senior Site Reliability Engineer specializing in security. I build simple, resil
 
 All of my work is done in a private account, so activity here is only when work and life allows me time.
 
----
+--
 
 ### Simple Thoughts
 

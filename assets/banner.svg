@@ -1,0 +1,72 @@
+<!-- Credit to https://github.com/DenverCoder1/readme-typing-svg/ for providing the base of this file -->
+
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 650 100' style='background-color: #00000000;' width='650px' height='100px'>
+    <style>
+        @font-face {
+            font-family: 'Fira Code';
+            font-style: normal;
+            font-weight: 400;
+            font-display: fallback;
+        }
+    </style>
+
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle' x='0' y='30'>
+        Hi 👋, I'm CurrentlyBlocked...
+    </text>
+
+    <path id='path0'>
+        <animate id='d0' attributeName='d' begin='0s;d7.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path0'>by a locked TF state.</textPath>
+    </text>
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path1'>by a Friday deployment.</textPath>
+    </text>
+
+    <path id='path2'>
+        <animate id='d2' attributeName='d' begin='d1.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path2'>tracing through 20 micro-services.</textPath>
+    </text>
+
+    <path id='path3'>
+        <animate id='d3' attributeName='d' begin='d2.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path3'>refactoring a 'temporary' fix.</textPath>
+    </text>
+
+    <path id='path4'>
+        <animate id='d4' attributeName='d' begin='d3.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path4'>waiting on the next funding round.</textPath>
+    </text>
+
+    <path id='path5'>
+        <animate id='d5' attributeName='d' begin='d4.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path5'>by AI agents stealing RAM.</textPath>
+    </text>
+
+    <path id='path6'>
+        <animate id='d6' attributeName='d' begin='d5.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path6'>reviewing a ±1000 change PR.</textPath>
+    </text>
+
+    <path id='path7'>
+        <animate id='d7' attributeName='d' begin='d6.end' dur='3500ms' fill='remove' values='m0,75 h0 ; m0,75 h650 ; m0,75 h650 ; m0,75 h0' keyTimes='0;0.57142857142857;0.85714285714286;1'/>
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#8B949E' font-size='32' dominant-baseline='middle'>
+        <textPath xlink:href='#path7'>by Error 429 Too Many Requests.</textPath>
+    </text>
+</svg>
