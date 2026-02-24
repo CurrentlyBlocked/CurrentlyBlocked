@@ -16,9 +16,23 @@ All of my work is done in a private account, so activity here is only when work 
 
 Me love [Grug brained development](https://grugbrain.dev/). Complex systems create complex problems, which lead to more complex "fixes".
 
-Solutions should be as simple as possible. Simple is not the same as easy; simple can be hard work.
+Solutions should be as simple as possible. Simple is not the same as easy; simple designs are often hard work.
 
-I like to think I am pragmatic enough to admit when a complex problem actually demands a complex solution, but I will grumble about it the entire time.
+However, I like to think I am pragmatic enough to admit when a complex problem actually demands a complex solution, but I will always advocate for the simplest path first.
+
+---
+
+<details>
+<summary><b>Tooling and Tech I Primarily Work With</b></summary>
+<br />
+
+* **Code:** Go, Python, Bash
+* **Infra:** AWS (CDK, CloudFormation), GCP, Pulumi, Terraform, Ansible
+* **Systems:** Linux, Docker, ECS, Lambda, EC2, AWS Glue (Spark), GitHub Actions
+* **Signal:** Grafana, Prometheus, CloudWatch
+* **Process:** Jira, Confluence, Lucid
+
+</details>
 
 ---
 
